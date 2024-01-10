@@ -1,13 +1,12 @@
-# About
+# Overview
+Prints Hello World with the standard IO library then exits the program.
 
-Prints hello world and exits program.
+[Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-Made with VSC
+Made in VSC
 
-C++
+Written in C++ with the standard IO library
 
 # Useful Websites
-
-n/a
