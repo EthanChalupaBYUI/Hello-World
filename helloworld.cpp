@@ -2,6 +2,6 @@
 using namespace std;
 
 int main(){
-    cout << "This is a message to cause a merge conflict." << endl;
+    cout << "This is a new message, hello world" << endl;
     return 1;
 }
